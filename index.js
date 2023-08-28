@@ -1401,6 +1401,8 @@ var Application = function() {
 
 			style.transformOrigin = "0 0";
 			style.transform = transformValue;
+			document.getElementById("Web_1920__1b").style.transformOrigin = "0 0";
+			document.getElementById("Web_1920__1b").style.transform = transformValue;
 
 			self.viewScale = desiredScale;
 			self.viewToFitWidthScale = scaleNeededToFitWidth;
