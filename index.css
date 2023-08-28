@@ -1,9 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@500;700&display=swap');
 
 @font-face {
 	font-family: "Gotham";
 	src: url("gotham-reg.ttf");
 	font-weight: 400;
+}
+@font-face {
+	font-family: "Gotham Book";
+	src: url("Gotham-Book.otf");
+}
+@font-face {
+	font-family: "Gotham";
+	src: url("Gotham-Book.otf");
+	font-weight:200;
 }
 @font-face {
 	font-family: "Gotham";
