@@ -1,0 +1,1483 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920__1_Class {
+	position: absolute;
+	width: 1920px;
+	height: 5264px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+.Group_19_Class {
+	position: absolute;
+	width: 1920px;
+	height: 880px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.rak-reflex-Cyklist-i-NY-smart-_Class {
+	position: absolute;
+	width: 1920px;
+	height: 880px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_7_l_Class {
+	fill: url(#Rectangle_7_l);
+}
+.Rectangle_7_l {
+	position: absolute;
+	overflow: visible;
+	width: 992px;
+	height: 768px;
+	left: 0px;
+	top: 112px;
+}
+.Group_3_Class {
+	position: absolute;
+	width: 864px;
+	height: 318px;
+	left: 128px;
+	top: 338px;
+	overflow: visible;
+}
+.cycletlogo_Class {
+	position: absolute;
+	width: 352px;
+	height: 124px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.the_safer_smarter_way_to_bike_Class {
+	left: 0px;
+	top: 127px;
+	position: absolute;
+	overflow: visible;
+	width: 865px;
+	height: 36px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+.Color_Button_Class {
+	position: absolute;
+	width: 224px;
+	height: 64px;
+	left: 0px;
+	top: 254px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+}
+.Color_Button_Large_Class {
+	position: absolute;
+	width: 224px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_5_s_Class {
+	fill: url(#Rectangle_5_s);
+}
+.Rectangle_5_s {
+	filter: drop-shadow(0px 0px 25px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 139px;
+	left: 0px;
+	top: 0px;
+}
+.buy_now_Class {
+	left: 0px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	height: 26px;
+	text-align: center;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Blank_Button_Class {
+	position: absolute;
+	width: 224px;
+	height: 64px;
+	left: 272px;
+	top: 254px;
+	overflow: visible;
+}
+.Rectangle_6_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_6 {
+	filter: drop-shadow(0px 0px 25px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 139px;
+	left: 0px;
+	top: 0px;
+}
+.learn_more_Class {
+	left: 0px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	height: 26px;
+	text-align: center;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_10_y_Class {
+	fill: url(#Rectangle_10_y);
+}
+.Rectangle_10_y {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 16px;
+	left: 0px;
+	top: 880px;
+}
+.Tab_Class {
+	position: absolute;
+	width: 332px;
+	height: 332px;
+	left: 152px;
+	top: 804px;
+	overflow: visible;
+}
+.Rectangle_8_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_8 {
+	filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, 0.388));
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	height: 422px;
+	left: 0px;
+	top: 0px;
+}
+.sunicon_Class {
+	position: absolute;
+	width: 82px;
+	height: 82px;
+	left: 125px;
+	top: 46px;
+	overflow: visible;
+}
+.bright_light_Class {
+	left: 6px;
+	top: 175px;
+	position: absolute;
+	overflow: visible;
+	width: 321px;
+	height: 32px;
+	text-align: center;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.With_a_front_and_back_light_Cy_Class {
+	left: 22px;
+	top: 231px;
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 92px;
+	text-align: center;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Tab__Class {
+	position: absolute;
+	width: 332px;
+	height: 332px;
+	left: 580px;
+	top: 804px;
+	overflow: visible;
+}
+.Rectangle_8__Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_8_ {
+	filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, 0.388));
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	height: 422px;
+	left: 0px;
+	top: 0px;
+}
+.screenicon_Class {
+	position: absolute;
+	width: 82px;
+	height: 82px;
+	left: 125px;
+	top: 46px;
+	overflow: visible;
+}
+.info_display_Class {
+	left: 6px;
+	top: 175px;
+	position: absolute;
+	overflow: visible;
+	width: 321px;
+	height: 32px;
+	text-align: center;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.A_screen_on_the_top_of_Cyclet__Class {
+	left: 22px;
+	top: 231px;
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 68px;
+	text-align: center;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Tab_ba_Class {
+	position: absolute;
+	width: 332px;
+	height: 332px;
+	left: 1008px;
+	top: 804px;
+	overflow: visible;
+}
+.Rectangle_8_ba_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_8_ba {
+	filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, 0.388));
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	height: 422px;
+	left: 0px;
+	top: 0px;
+}
+.turnicon_Class {
+	position: absolute;
+	width: 82px;
+	height: 82px;
+	left: 125px;
+	top: 46px;
+	overflow: visible;
+}
+.turn_signal_Class {
+	left: 6px;
+	top: 175px;
+	position: absolute;
+	overflow: visible;
+	width: 321px;
+	height: 32px;
+	text-align: center;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Cyclet_is_incorporated_with_an_Class {
+	left: 22px;
+	top: 231px;
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 92px;
+	text-align: center;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Tab_be_Class {
+	position: absolute;
+	width: 332px;
+	height: 332px;
+	left: 1436px;
+	top: 804px;
+	overflow: visible;
+}
+.Rectangle_8_bf_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_8_bf {
+	filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, 0.388));
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	height: 422px;
+	left: 0px;
+	top: 0px;
+}
+.gpsicon_Class {
+	position: absolute;
+	width: 82px;
+	height: 82px;
+	left: 125px;
+	top: 46px;
+	overflow: visible;
+}
+.accurate_gps_Class {
+	left: 6px;
+	top: 175px;
+	position: absolute;
+	overflow: visible;
+	width: 321px;
+	height: 32px;
+	text-align: center;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Inside_is_a_GPS_giving_you_you_Class {
+	left: 22px;
+	top: 231px;
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 92px;
+	text-align: center;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.what_is_cyclet_Class {
+	position: absolute;
+	width: 1920px;
+	height: 432px;
+	left: 0px;
+	top: 1200px;
+	overflow: visible;
+}
+.Rectangle_13_Class {
+	fill: transparent;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 432px;
+	left: 0px;
+	top: 0px;
+}
+.Group_5_Class {
+	position: absolute;
+	width: 832px;
+	height: 240px;
+	left: 128px;
+	top: 99px;
+	overflow: visible;
+}
+.what_is_cyclet_bm_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 609px;
+	height: 64px;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 64px;
+	color: rgba(21,121,255,1);
+}
+.Cyclet_is_a_multi_function_bik_Class {
+	left: 0px;
+	top: 118px;
+	position: absolute;
+	overflow: visible;
+	width: 833px;
+	height: 122px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+.IMG_2763-removebg-preview_Class {
+	position: absolute;
+	width: 832px;
+	height: 432px;
+	left: 960px;
+	top: 0px;
+	overflow: visible;
+}
+.features_Class {
+	left: 656px;
+	top: 1776px;
+	position: absolute;
+	overflow: visible;
+	width: 609px;
+	height: 64px;
+	text-align: center;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 64px;
+	color: rgba(21,121,255,1);
+}
+.Group_15_Class {
+	position: absolute;
+	width: 1920px;
+	height: 880px;
+	left: 0px;
+	top: 1872px;
+	overflow: visible;
+}
+.Rectangle_14_Class {
+	fill: transparent;
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 880px;
+	left: 0px;
+	top: 0px;
+}
+.cyclet_Class {
+	position: absolute;
+	width: 832px;
+	height: 496px;
+	left: 128px;
+	top: 256px;
+	overflow: visible;
+}
+.front_module_Class {
+	left: 128px;
+	top: 95px;
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 64px;
+	color: rgba(74,199,97,1);
+}
+.Group_6_Class {
+	position: absolute;
+	width: 720px;
+	height: 96px;
+	left: 1072px;
+	top: 160px;
+	overflow: visible;
+}
+.front_Class {
+	position: absolute;
+	width: 96px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.front_light_Class {
+	left: 128px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Cyclets_bright_front_light_all_Class {
+	left: 128px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 593px;
+	height: 44px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Group_6_by_Class {
+	position: absolute;
+	width: 720px;
+	height: 96px;
+	left: 1072px;
+	top: 304px;
+	overflow: visible;
+}
+.turn_Class {
+	position: absolute;
+	width: 96px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.turn_signal_b_Class {
+	left: 128px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Cyclet_is_incorporated_with_an_b_Class {
+	left: 128px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 593px;
+	height: 44px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Group_6_b_Class {
+	position: absolute;
+	width: 720px;
+	height: 96px;
+	left: 1072px;
+	top: 448px;
+	overflow: visible;
+}
+.gps_Class {
+	position: absolute;
+	width: 96px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.accurate_gps_b_Class {
+	left: 128px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Included_is_a_GPS_giving_you_y_Class {
+	left: 128px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 593px;
+	height: 44px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Group_6_ca_Class {
+	position: absolute;
+	width: 720px;
+	height: 96px;
+	left: 1072px;
+	top: 592px;
+	overflow: visible;
+}
+.display_Class {
+	position: absolute;
+	width: 96px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.info_display_b_Class {
+	left: 128px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.A_screen_on_the_top_of_Cyclet__b_Class {
+	left: 128px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 593px;
+	height: 44px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Group_6_cb_Class {
+	position: absolute;
+	width: 720px;
+	height: 96px;
+	left: 1072px;
+	top: 736px;
+	overflow: visible;
+}
+.battery_Class {
+	position: absolute;
+	width: 96px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.long_battery_life_Class {
+	left: 128px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Cyclet_has_a_battery_life_of_o_Class {
+	left: 128px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 593px;
+	height: 44px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Ellipse_6_Class {
+	fill: rgba(255,220,4,1);
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 528px;
+	top: 320px;
+}
+.Ellipse_7_Class {
+	fill: rgba(192,82,222,1);
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 223px;
+	top: 437px;
+}
+.Ellipse_8_Class {
+	fill: rgba(255,161,0,1);
+}
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 336px;
+	top: 320px;
+}
+.Ellipse_9_Class {
+	fill: rgba(10,125,255,1);
+}
+.Ellipse_9 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 400px;
+	top: 464px;
+}
+.Ellipse_10_Class {
+	fill: rgba(59,199,92,1);
+}
+.Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 848px;
+	top: 576px;
+}
+.Group_16_Class {
+	position: absolute;
+	width: 1920px;
+	height: 592px;
+	left: 0px;
+	top: 2768px;
+	overflow: visible;
+}
+.Rectangle_15_Class {
+	fill: transparent;
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 592px;
+	left: 0px;
+	top: 0px;
+}
+.taillight_Class {
+	position: absolute;
+	width: 832px;
+	height: 432px;
+	left: 960px;
+	top: 160px;
+	overflow: visible;
+}
+.back_module_Class {
+	left: 1400px;
+	top: 95px;
+	position: absolute;
+	overflow: visible;
+	width: 364px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 64px;
+	color: rgba(10,129,255,1);
+}
+.Group_7_Class {
+	position: absolute;
+	width: 720px;
+	height: 96px;
+	left: 128px;
+	top: 160px;
+	overflow: visible;
+}
+.back_Class {
+	position: absolute;
+	width: 96px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.back_light_Class {
+	left: 128px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Cyclet_includes_a_back_light_a_Class {
+	left: 128px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 593px;
+	height: 44px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Group_8_Class {
+	position: absolute;
+	width: 720px;
+	height: 96px;
+	left: 128px;
+	top: 304px;
+	overflow: visible;
+}
+.turn_cs_Class {
+	position: absolute;
+	width: 96px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.turn_signal_ct_Class {
+	left: 128px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Cyclets_back_light_also_includ_Class {
+	left: 128px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 593px;
+	height: 44px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Group_9_Class {
+	position: absolute;
+	width: 720px;
+	height: 96px;
+	left: 128px;
+	top: 448px;
+	overflow: visible;
+}
+.viewing_Class {
+	position: absolute;
+	width: 96px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.wide_viewing_angle_Class {
+	left: 128px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 270px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Both_the_front_and_back_light__Class {
+	left: 128px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 593px;
+	height: 44px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Ellipse_11_Class {
+	fill: rgba(255,60,8,1);
+}
+.Ellipse_11 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 1360px;
+	top: 361px;
+}
+.Ellipse_12_Class {
+	fill: rgba(192,82,222,1);
+}
+.Ellipse_12 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 1776px;
+	top: 360px;
+}
+.Ellipse_13_Class {
+	fill: rgba(255,161,0,1);
+}
+.Ellipse_13 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 1128px;
+	top: 360px;
+}
+.Group_17_Class {
+	position: absolute;
+	width: 1920px;
+	height: 880px;
+	left: 0px;
+	top: 3360px;
+	overflow: visible;
+}
+.Rectangle_16_Class {
+	fill: transparent;
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 880px;
+	left: 0px;
+	top: 0px;
+}
+.turnswitch_Class {
+	position: absolute;
+	width: 832px;
+	height: 240px;
+	left: 128px;
+	top: 160px;
+	overflow: visible;
+}
+.turn_switch_Class {
+	left: 128px;
+	top: 95px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 64px;
+	color: rgba(255,157,0,1);
+}
+.Group_10_Class {
+	position: absolute;
+	width: 720px;
+	height: 96px;
+	left: 1072px;
+	top: 160px;
+	overflow: visible;
+}
+.switch_Class {
+	position: absolute;
+	width: 96px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.simple_actuation_Class {
+	left: 128px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Use_the_two_touch_sensors_on_t_Class {
+	left: 128px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 593px;
+	height: 44px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Group_11_Class {
+	position: absolute;
+	width: 720px;
+	height: 96px;
+	left: 1072px;
+	top: 304px;
+	overflow: visible;
+}
+.touch_Class {
+	position: absolute;
+	width: 96px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.convenient_location_Class {
+	left: 128px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 275px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Cyclets_turn_signal_switch_is__Class {
+	left: 128px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 593px;
+	height: 44px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Ellipse_19_Class {
+	fill: rgba(10,125,255,1);
+}
+.Ellipse_19 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 459px;
+	top: 264px;
+}
+.Ellipse_20_Class {
+	fill: rgba(59,199,92,1);
+}
+.Ellipse_20 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 608px;
+	top: 192px;
+}
+.Path_1_dh_Class {
+	fill: url(#Path_1_dh);
+}
+.Path_1_dh {
+	overflow: visible;
+	position: absolute;
+	width: 256px;
+	height: 80px;
+	left: 705px;
+	top: 240px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_14_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 3904px;
+	overflow: visible;
+}
+.Group_13_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_17_dl_Class {
+	fill: url(#Rectangle_17_dl);
+}
+.Rectangle_17_dl {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+.Group_12_Class {
+	position: absolute;
+	width: 608px;
+	height: 722px;
+	left: 128px;
+	top: 180px;
+	overflow: visible;
+}
+.tech_specs_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 609px;
+	height: 64px;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 64px;
+	color: rgba(255,255,255,1);
+}
+.for_nerds_Class {
+	left: 0px;
+	top: 95px;
+	position: absolute;
+	overflow: visible;
+	width: 609px;
+	height: 28px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+.main_module_Class {
+	left: 0px;
+	top: 196px;
+	position: absolute;
+	overflow: visible;
+	width: 207px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+.dimensions_100mm_x_60mm_x_40mm_Class {
+	left: 16px;
+	top: 254px;
+	position: absolute;
+	overflow: visible;
+	width: 466px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+.back_module_dr_Class {
+	left: 0px;
+	top: 516px;
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+.dimensions_100mm_x_WONG_led_br_Class {
+	left: 16px;
+	top: 574px;
+	position: absolute;
+	overflow: visible;
+	width: 371px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+.cyclet_dt_Class {
+	position: absolute;
+	width: 832px;
+	height: 832px;
+	left: 960px;
+	top: 124px;
+	overflow: visible;
+}
+.Group_18_Class {
+	position: absolute;
+	width: 1920px;
+	height: 288px;
+	left: 0px;
+	top: 4976px;
+	overflow: visible;
+}
+.Rectangle_18_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 288px;
+	left: 0px;
+	top: 0px;
+}
+.wwwcycletus_copyright_2022_by__Class {
+	left: 664px;
+	top: 170px;
+	position: absolute;
+	overflow: visible;
+	width: 593px;
+	height: 70px;
+	line-height: 42px;
+	margin-top: -7px;
+	text-align: center;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+}
+.cycletmulti_Class {
+	position: absolute;
+	width: 208px;
+	height: 80px;
+	left: 856px;
+	top: 64px;
+	overflow: visible;
+}
+.title_bar_Class {
+	position: absolute;
+	width: 1920px;
+	height: 112px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_Class {
+	filter: blur(5px);
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 0px 25px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 1995px;
+	height: 187px;
+	left: 0px;
+	top: 0px;
+}
+.cycletmulti_d_Class {
+	position: absolute;
+	width: 138px;
+	height: 48px;
+	left: 64px;
+	top: 32px;
+	overflow: visible;
+}
+.Blank_Button_Small_Class {
+	position: absolute;
+	width: 160px;
+	height: 48px;
+	left: 1344px;
+	top: 32px;
+	overflow: visible;
+}
+.Rectangle_3_Class {
+	fill: transparent;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.home_Class {
+	left: 0px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	height: 24px;
+	text-align: center;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+.Color_Button_Small_Class {
+	position: absolute;
+	width: 160px;
+	height: 48px;
+	left: 1696px;
+	top: 32px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+}
+.Rectangle_4_d_Class {
+	fill: url(#Rectangle_4_d);
+}
+.Rectangle_4_d {
+	filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.459));
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 78px;
+	left: 0px;
+	top: 0px;
+}
+.buy_now_d_Class {
+	left: 0px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	height: 24px;
+	text-align: center;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+.Blank_Button_Small_d_Class {
+	position: absolute;
+	width: 160px;
+	height: 48px;
+	left: 1520px;
+	top: 32px;
+	overflow: visible;
+}
+.Rectangle_3_d_Class {
+	fill: transparent;
+}
+.Rectangle_3_d {
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.contact_Class {
+	left: 0px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	height: 24px;
+	text-align: center;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
