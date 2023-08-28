@@ -7,6 +7,15 @@
 <title>Cyclet</title>
 <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="index.css"/>
 <script id="applicationScript" type="text/javascript" src="index.js"></script>
+<script>
+if (navigator.userAgent.match(/Android/i) ||
+      navigator.userAgent.match(/webOS/i) ||
+      navigator.userAgent.match(/iPhone/i) ||
+      navigator.userAgent.match(/iPad/i) ||
+      navigator.userAgent.match(/iPod/i) ||
+      navigator.userAgent.match(/BlackBerry/i) ||
+      navigator.userAgent.match(/Windows Phone/i)
+    ) {} else { location.href = "mobile/"; } </script>
 </head>
 <body>
 <div id="Web_1920__1" class="Web_1920__1_Class">
