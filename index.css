@@ -2,12 +2,12 @@
 
 @font-face {
 	font-family: "Gotham";
-	src: url(""gotham"-reg.ttf");
+	src: url("gotham-reg.ttf");
 	font-weight: 400;
 }
 @font-face {
 	font-family: "Gotham";
-	src: url(""gotham"-bold.ttf");
+	src: url("gotham-bold.ttf");
 	font-weight: 700;
 }
 
