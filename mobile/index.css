@@ -25,6 +25,7 @@
 	--web-view-id: iPhone_14_Pro_Max__1;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -37,28 +38,40 @@
 	box-sizing: border-box;
 	border: none;
 }
-.iPhone_14_Pro_Max__1_Class {
+#iPhone_14_Pro_Max__1 {
 	position: absolute;
 	width: 430px;
-	height: 1835px;
+	height: 1837px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: iPhone 14 Pro Max – 1;
 	--web-view-id: iPhone_14_Pro_Max__1;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
-.GripGrab-High-Visibility-8_Class {
+#Rectangle_24 {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_24 {
 	position: absolute;
-	width: 505px;
-	height: 881px;
-	left: -27px;
-	top: 76px;
+	overflow: visible;
+	width: 430px;
+	height: 762px;
+	left: 0px;
+	top: 950px;
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 430px;
+	height: 957px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
-.Rectangle_22_Class {
+#Rectangle_22 {
 	fill: rgba(0,0,0,0.702);
 }
 .Rectangle_22 {
@@ -69,10 +82,10 @@
 	left: 0px;
 	top: 423px;
 }
-.Rectangle_21_j_Class {
-	fill: url(#Rectangle_21_j);
+#Rectangle_21_k {
+	fill: url(#Rectangle_21_k);
 }
-.Rectangle_21_j {
+.Rectangle_21_k {
 	position: absolute;
 	overflow: visible;
 	width: 430px;
@@ -80,10 +93,10 @@
 	left: 0px;
 	top: 283px;
 }
-.Rectangle_20_l_Class {
-	fill: url(#Rectangle_20_l);
+#Rectangle_20_m {
+	fill: url(#Rectangle_20_m);
 }
-.Rectangle_20_l {
+.Rectangle_20_m {
 	position: absolute;
 	overflow: visible;
 	width: 430px;
@@ -91,36 +104,7 @@
 	left: 0px;
 	top: 793px;
 }
-.title_bar_Class {
-	position: absolute;
-	width: 430px;
-	height: 76px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.Rectangle_1_Class {
-	filter: blur(1px);
-	fill: rgba(255,255,255,0.85);
-}
-.Rectangle_1 {
-	filter: drop-shadow(0px 0px 25px rgba(0, 0, 0, 0.302));
-	position: absolute;
-	overflow: visible;
-	width: 505px;
-	height: 151px;
-	left: 0px;
-	top: 0px;
-}
-.cycletmulti_Class {
-	position: absolute;
-	width: 69px;
-	height: 24px;
-	left: 181px;
-	top: 29px;
-	overflow: visible;
-}
-.cycletlogo_Class {
+#cycletlogo {
 	position: absolute;
 	width: 232px;
 	height: 82px;
@@ -128,7 +112,7 @@
 	top: 333px;
 	overflow: visible;
 }
-.the_safer_smarter_way_to_bike_Class {
+#the_safer_smarter_way_to_bike {
 	left: 71px;
 	top: 427px;
 	position: absolute;
@@ -142,7 +126,7 @@
 	font-size: 22px;
 	color: rgba(255,255,255,1);
 }
-.whitebutton_Class {
+#whitebutton {
 	position: absolute;
 	width: 177px;
 	height: 43px;
@@ -150,8 +134,8 @@
 	top: 475px;
 	overflow: visible;
 }
-.Rectangle_8_Class {
-	fill: rgba(255,255,255,1);
+#Rectangle_8 {
+	fill: rgba(46,46,46,1);
 }
 .Rectangle_8 {
 	filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
@@ -162,7 +146,7 @@
 	left: 0px;
 	top: 0px;
 }
-.learn_more_Class {
+#learn_more {
 	left: 36px;
 	top: 13px;
 	position: absolute;
@@ -174,9 +158,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 14px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-.bluebutton_Class {
+#bluebutton {
 	position: absolute;
 	width: 177px;
 	height: 43px;
@@ -184,10 +168,10 @@
 	top: 475px;
 	overflow: visible;
 }
-.Rectangle_9_w_Class {
-	fill: url(#Rectangle_9_w);
+#Rectangle_9_u {
+	fill: url(#Rectangle_9_u);
 }
-.Rectangle_9_w {
+.Rectangle_9_u {
 	filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
@@ -196,7 +180,7 @@
 	left: 0px;
 	top: 0px;
 }
-.buy_now_Class {
+#buy_now {
 	left: 36px;
 	top: 12px;
 	position: absolute;
@@ -210,7 +194,7 @@
 	font-size: 14px;
 	color: rgba(255,255,255,1);
 }
-.features_Class {
+#features {
 	left: 172px;
 	top: 993px;
 	position: absolute;
@@ -222,9 +206,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 24px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-.Tab_Class {
+#Tab {
 	position: absolute;
 	width: 374px;
 	height: 146px;
@@ -232,8 +216,64 @@
 	top: 1033px;
 	overflow: visible;
 }
-.Rectangle_8__Class {
-	fill: rgba(255,255,255,1);
+#Rectangle_8_y {
+	fill: rgba(46,46,46,1);
+}
+.Rectangle_8_y {
+	filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 392px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+}
+#sunicon {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 20px;
+	top: 20px;
+	overflow: visible;
+}
+#bright_light {
+	left: 77px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	height: 22px;
+	text-align: left;
+	font-family: Kumbh Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#With_a_front_and_back_light_Cy {
+	left: 21px;
+	top: 71px;
+	position: absolute;
+	overflow: visible;
+	width: 337px;
+	height: 35px;
+	text-align: left;
+	font-family: Gotham;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Tab_ {
+	position: absolute;
+	width: 374px;
+	height: 146px;
+	left: 28px;
+	top: 1195px;
+	overflow: visible;
+}
+#Rectangle_8_ {
+	fill: rgba(46,46,46,1);
 }
 .Rectangle_8_ {
 	filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
@@ -244,7 +284,7 @@
 	left: 0px;
 	top: 0px;
 }
-.sunicon_Class {
+#screenicon {
 	position: absolute;
 	width: 36px;
 	height: 36px;
@@ -252,7 +292,7 @@
 	top: 20px;
 	overflow: visible;
 }
-.bright_light_Class {
+#info_display {
 	left: 77px;
 	top: 24px;
 	position: absolute;
@@ -264,9 +304,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 22px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-.With_a_front_and_back_light_Cy_Class {
+#A_screen_on_the_top_of_Cyclet_ {
 	left: 21px;
 	top: 71px;
 	position: absolute;
@@ -278,18 +318,18 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 16px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-.Tab__Class {
+#Tab_ba {
 	position: absolute;
 	width: 374px;
 	height: 146px;
 	left: 28px;
-	top: 1195px;
+	top: 1357px;
 	overflow: visible;
 }
-.Rectangle_8_ba_Class {
-	fill: rgba(255,255,255,1);
+#Rectangle_8_ba {
+	fill: rgba(46,46,46,1);
 }
 .Rectangle_8_ba {
 	filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
@@ -300,7 +340,7 @@
 	left: 0px;
 	top: 0px;
 }
-.screenicon_Class {
+#turnicon {
 	position: absolute;
 	width: 36px;
 	height: 36px;
@@ -308,7 +348,7 @@
 	top: 20px;
 	overflow: visible;
 }
-.info_display_Class {
+#turn_signal {
 	left: 77px;
 	top: 24px;
 	position: absolute;
@@ -320,65 +360,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 22px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-.A_screen_on_the_top_of_Cyclet__Class {
-	left: 21px;
-	top: 71px;
-	position: absolute;
-	overflow: visible;
-	width: 337px;
-	height: 35px;
-	text-align: left;
-	font-family: Gotham;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 16px;
-	color: rgba(0,0,0,1);
-}
-.Tab_ba_Class {
-	position: absolute;
-	width: 374px;
-	height: 146px;
-	left: 28px;
-	top: 1357px;
-	overflow: visible;
-}
-.Rectangle_8_bb_Class {
-	fill: rgba(255,255,255,1);
-}
-.Rectangle_8_bb {
-	filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
-	position: absolute;
-	overflow: visible;
-	width: 392px;
-	height: 164px;
-	left: 0px;
-	top: 0px;
-}
-.turnicon_Class {
-	position: absolute;
-	width: 36px;
-	height: 36px;
-	left: 20px;
-	top: 20px;
-	overflow: visible;
-}
-.turn_signal_Class {
-	left: 77px;
-	top: 24px;
-	position: absolute;
-	overflow: visible;
-	width: 161px;
-	height: 22px;
-	text-align: left;
-	font-family: Kumbh Sans;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 22px;
-	color: rgba(0,0,0,1);
-}
-.Cyclet_is_incorporated_with_an_Class {
+#Cyclet_is_incorporated_with_an {
 	left: 21px;
 	top: 71px;
 	position: absolute;
@@ -390,9 +374,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 16px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-.Tab_be_Class {
+#Tab_bc {
 	position: absolute;
 	width: 374px;
 	height: 146px;
@@ -400,10 +384,10 @@
 	top: 1519px;
 	overflow: visible;
 }
-.Rectangle_8_bf_Class {
-	fill: rgba(255,255,255,1);
+#Rectangle_8_bd {
+	fill: rgba(46,46,46,1);
 }
-.Rectangle_8_bf {
+.Rectangle_8_bd {
 	filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
@@ -412,7 +396,7 @@
 	left: 0px;
 	top: 0px;
 }
-.gpsicon_Class {
+#gpsicon {
 	position: absolute;
 	width: 36px;
 	height: 36px;
@@ -420,7 +404,7 @@
 	top: 20px;
 	overflow: visible;
 }
-.accurate_gps_Class {
+#accurate_gps {
 	left: 77px;
 	top: 24px;
 	position: absolute;
@@ -432,9 +416,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 22px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-.Inside_is_a_GPS_giving_you_you_Class {
+#Inside_is_a_GPS_giving_you_you {
 	left: 21px;
 	top: 71px;
 	position: absolute;
@@ -446,9 +430,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 16px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-.Group_1_Class {
+#Group_1 {
 	position: absolute;
 	width: 430px;
 	height: 125px;
@@ -456,8 +440,8 @@
 	top: 1712px;
 	overflow: visible;
 }
-.Rectangle_18_Class {
-	fill: rgba(240,240,240,1);
+#Rectangle_18 {
+	fill: rgba(46,46,46,1);
 }
 .Rectangle_18 {
 	position: absolute;
@@ -467,9 +451,9 @@
 	left: 0px;
 	top: 0px;
 }
-.wwwcycletus_copyright_2022_by__Class {
+#wwwcycletus_copyright_2022_by_ {
 	left: 27px;
-	top: 67px;
+	top: 44px;
 	position: absolute;
 	overflow: visible;
 	width: 377px;
@@ -481,17 +465,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 14px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-.cycletmulti_bm_Class {
-	position: absolute;
-	width: 102px;
-	height: 39px;
-	left: 164px;
-	top: 18px;
-	overflow: visible;
-}
-.Group_2_Class {
+#Group_2 {
 	position: absolute;
 	width: 374px;
 	height: 387px;
@@ -499,8 +475,8 @@
 	top: 554px;
 	overflow: visible;
 }
-.Rectangle_7_Class {
-	fill: rgba(255,255,255,1);
+#Rectangle_7 {
+	fill: rgba(46,46,46,1);
 }
 .Rectangle_7 {
 	filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
@@ -511,7 +487,7 @@
 	left: 0px;
 	top: 0px;
 }
-.what_is_cyclet_Class {
+#what_is_cyclet {
 	left: 109px;
 	top: 254px;
 	position: absolute;
@@ -523,9 +499,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 24px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-.Cyclet_is_a_multi_function_bik_Class {
+#Cyclet_is_a_multi_function_bik {
 	left: 16px;
 	top: 292px;
 	position: absolute;
@@ -537,10 +513,10 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 16px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-.Rectangle_19_Class {
-	fill: rgba(255,255,255,1);
+#Rectangle_19 {
+	fill: rgba(46,46,46,1);
 }
 .Rectangle_19 {
 	position: absolute;
@@ -550,7 +526,7 @@
 	left: 24px;
 	top: 26px;
 }
-.IMG_2763-removebg-preview_Class {
+#IMG_2763-removebg-preview {
 	position: absolute;
 	width: 326px;
 	height: 170px;
@@ -558,7 +534,7 @@
 	top: 26px;
 	overflow: visible;
 }
-.Ellipse_1_Class {
+#Ellipse_1 {
 	fill: rgba(63,161,255,1);
 }
 .Ellipse_1 {
@@ -569,7 +545,7 @@
 	left: 193px;
 	top: 750px;
 }
-.Ellipse_2_Class {
+#Ellipse_2 {
 	fill: rgba(209,209,209,1);
 }
 .Ellipse_2 {
@@ -580,7 +556,7 @@
 	left: 229px;
 	top: 750px;
 }
-.Ellipse_3_Class {
+#Ellipse_3 {
 	fill: rgba(209,209,209,1);
 }
 .Ellipse_3 {
@@ -590,4 +566,106 @@
 	height: 8px;
 	left: 211px;
 	top: 750px;
+}
+#Group_3 {
+	position: absolute;
+	width: 430px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#title_bar {
+	position: absolute;
+	width: 430px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	filter: blur(1px);
+	fill: rgba(46,46,46,0.85);
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 0px 25px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 505px;
+	height: 151px;
+	left: 0px;
+	top: 0px;
+}
+#logomultiwhite {
+	position: absolute;
+	width: 69px;
+	height: 24px;
+	left: 181px;
+	top: 29px;
+	overflow: visible;
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 23px;
+	height: 18px;
+	left: 379px;
+	top: 31px;
+	overflow: hidden;
+}
+#Group {
+	position: absolute;
+	width: 23px;
+	height: 4px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: rgba(63,161,255,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 4px;
+	left: 0px;
+	top: 0px;
+}
+#Group_b {
+	position: absolute;
+	width: 23px;
+	height: 4px;
+	left: 0px;
+	top: 7px;
+	overflow: visible;
+}
+#Rectangle_5_b {
+	fill: rgba(63,161,255,1);
+}
+.Rectangle_5_b {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 4px;
+	left: 0px;
+	top: 0px;
+}
+#Group_ca {
+	position: absolute;
+	width: 23px;
+	height: 4px;
+	left: 0px;
+	top: 14px;
+	overflow: visible;
+}
+#Rectangle_5_ca {
+	fill: rgba(63,161,255,1);
+}
+.Rectangle_5_ca {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 4px;
+	left: 0px;
+	top: 0px;
 }

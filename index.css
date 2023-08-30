@@ -21,17 +21,16 @@
 }
 
 .mediaViewInfo {
-	--web-view-name: Web 1920 – 1;
-	--web-view-id: Web_1920__1;
+	--web-view-name: main;
+	--web-view-id: main;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
-	--web-navigate-on-keypress: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Web_1920__1;
+	--web-view-ids: main;
 }
 * {
 	margin: 0;
@@ -39,19 +38,18 @@
 	box-sizing: border-box;
 	border: none;
 }
-.Web_1920__1_Class {
+#main {
 	position: absolute;
 	width: 1920px;
-	height: 5264px;
+	height: 5392px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Web 1920 – 1;
-	--web-view-id: Web_1920__1;
+	--web-view-name: main;
+	--web-view-id: main;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
-	--web-navigate-on-keypress: true;
 	--web-enable-deep-linking: true;
 }
 @keyframes  {
@@ -62,7 +60,18 @@
 
 
 }
-.Group_19_Class {
+#Rectangle_23_j {
+	fill: url(#Rectangle_23_j);
+}
+.Rectangle_23_j {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 2352px;
+	left: 0px;
+	top: 1680px;
+}
+#Group_19 {
 	position: absolute;
 	width: 1920px;
 	height: 880px;
@@ -70,7 +79,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.rak-reflex-Cyklist-i-NY-smart-_Class {
+#rak-reflex-Cyklist-i-NY-smart- {
 	position: absolute;
 	width: 1920px;
 	height: 880px;
@@ -78,10 +87,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.Rectangle_7_l_Class {
-	fill: url(#Rectangle_7_l);
+#Rectangle_7_n {
+	fill: url(#Rectangle_7_n);
 }
-.Rectangle_7_l {
+.Rectangle_7_n {
 	position: absolute;
 	overflow: visible;
 	width: 992px;
@@ -89,7 +98,7 @@
 	left: 0px;
 	top: 112px;
 }
-.Group_3_Class {
+#Group_3 {
 	position: absolute;
 	width: 864px;
 	height: 318px;
@@ -97,7 +106,7 @@
 	top: 338px;
 	overflow: visible;
 }
-.cycletlogo_Class {
+#cycletlogo {
 	position: absolute;
 	width: 352px;
 	height: 124px;
@@ -105,21 +114,21 @@
 	top: 0px;
 	overflow: visible;
 }
-.the_safer_smarter_way_to_bike_Class {
+#the_safer_smarter_way_to_bike {
 	left: 0px;
-	top: 127px;
+	top: 137px;
 	position: absolute;
 	overflow: visible;
 	width: 865px;
 	height: 36px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 36px;
 	color: rgba(255,255,255,1);
 }
-.Color_Button_Class {
+#Color_Button {
 	position: absolute;
 	width: 224px;
 	height: 64px;
@@ -128,10 +137,10 @@
 	overflow: visible;
 	--web-animation: fadein undefineds undefined;
 	--web-action-type: page;
-	--web-action-target: Web_1920___2.html;
+	--web-action-target: buy.html;
 	cursor: pointer;
 }
-.Color_Button_Large_Class {
+#Color_Button_Large {
 	position: absolute;
 	width: 224px;
 	height: 64px;
@@ -139,10 +148,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.Rectangle_5_s_Class {
-	fill: url(#Rectangle_5_s);
+#Rectangle_5_u {
+	fill: url(#Rectangle_5_u);
 }
-.Rectangle_5_s {
+.Rectangle_5_u {
 	filter: drop-shadow(0px 0px 25px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -151,7 +160,7 @@
 	left: 0px;
 	top: 0px;
 }
-.buy_now_Class {
+#buy_now {
 	left: 0px;
 	top: 16px;
 	position: absolute;
@@ -159,13 +168,13 @@
 	width: 225px;
 	height: 26px;
 	text-align: center;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 26px;
 	color: rgba(255,255,255,1);
 }
-.Blank_Button_Class {
+#Blank_Button {
 	position: absolute;
 	width: 224px;
 	height: 64px;
@@ -173,7 +182,7 @@
 	top: 254px;
 	overflow: visible;
 }
-.Rectangle_6_Class {
+#Rectangle_6 {
 	fill: rgba(255,255,255,1);
 }
 .Rectangle_6 {
@@ -185,7 +194,7 @@
 	left: 0px;
 	top: 0px;
 }
-.learn_more_Class {
+#learn_more {
 	left: 0px;
 	top: 16px;
 	position: absolute;
@@ -193,16 +202,16 @@
 	width: 225px;
 	height: 26px;
 	text-align: center;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 26px;
 	color: rgba(0,0,0,1);
 }
-.Rectangle_10_y_Class {
-	fill: url(#Rectangle_10_y);
+#Rectangle_10_ {
+	fill: url(#Rectangle_10_);
 }
-.Rectangle_10_y {
+.Rectangle_10_ {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -210,15 +219,16 @@
 	left: 0px;
 	top: 880px;
 }
-.Tab_Class {
+#Tab {
 	position: absolute;
 	width: 332px;
 	height: 332px;
 	left: 152px;
 	top: 804px;
 	overflow: visible;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-.Rectangle_8_Class {
+#Rectangle_8 {
 	fill: rgba(255,255,255,1);
 }
 .Rectangle_8 {
@@ -230,7 +240,7 @@
 	left: 0px;
 	top: 0px;
 }
-.sunicon_Class {
+#sunicon {
 	position: absolute;
 	width: 82px;
 	height: 82px;
@@ -238,43 +248,44 @@
 	top: 46px;
 	overflow: visible;
 }
-.bright_light_Class {
+#bright_light {
 	left: 6px;
-	top: 175px;
+	top: 165px;
 	position: absolute;
 	overflow: visible;
 	width: 321px;
 	height: 32px;
 	text-align: center;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.With_a_front_and_back_light_Cy_Class {
+#With_a_front_and_back_light_Cy {
 	left: 22px;
-	top: 231px;
+	top: 221px;
 	position: absolute;
 	overflow: visible;
 	width: 289px;
 	height: 92px;
 	text-align: center;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Tab__Class {
+#Tab_ {
 	position: absolute;
 	width: 332px;
 	height: 332px;
 	left: 580px;
 	top: 804px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	overflow: visible;
 }
-.Rectangle_8__Class {
+#Rectangle_8_ {
 	fill: rgba(255,255,255,1);
 }
 .Rectangle_8_ {
@@ -286,7 +297,7 @@
 	left: 0px;
 	top: 0px;
 }
-.screenicon_Class {
+#screenicon {
 	position: absolute;
 	width: 82px;
 	height: 82px;
@@ -294,46 +305,47 @@
 	top: 46px;
 	overflow: visible;
 }
-.info_display_Class {
+#info_display {
 	left: 6px;
-	top: 175px;
+	top: 165px;
 	position: absolute;
 	overflow: visible;
 	width: 321px;
 	height: 32px;
 	text-align: center;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.A_screen_on_the_top_of_Cyclet__Class {
+#A_screen_on_the_top_of_Cyclet_ {
 	left: 22px;
-	top: 231px;
+	top: 221px;
 	position: absolute;
 	overflow: visible;
 	width: 289px;
 	height: 68px;
 	text-align: center;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Tab_ba_Class {
+#Tab_bb {
 	position: absolute;
 	width: 332px;
 	height: 332px;
 	left: 1008px;
 	top: 804px;
 	overflow: visible;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-.Rectangle_8_ba_Class {
+#Rectangle_8_bc {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_8_ba {
+.Rectangle_8_bc {
 	filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, 0.388));
 	position: absolute;
 	overflow: visible;
@@ -342,7 +354,7 @@
 	left: 0px;
 	top: 0px;
 }
-.turnicon_Class {
+#turnicon {
 	position: absolute;
 	width: 82px;
 	height: 82px;
@@ -350,46 +362,47 @@
 	top: 46px;
 	overflow: visible;
 }
-.turn_signal_Class {
+#turn_signal {
 	left: 6px;
-	top: 175px;
+	top: 165px;
 	position: absolute;
 	overflow: visible;
 	width: 321px;
 	height: 32px;
 	text-align: center;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.Cyclet_is_incorporated_with_an_Class {
+#Cyclet_is_incorporated_with_an {
 	left: 22px;
-	top: 231px;
+	top: 221px;
 	position: absolute;
 	overflow: visible;
 	width: 289px;
 	height: 92px;
 	text-align: center;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Tab_be_Class {
+#Tab_bg {
 	position: absolute;
 	width: 332px;
 	height: 332px;
 	left: 1436px;
 	top: 804px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	overflow: visible;
 }
-.Rectangle_8_bf_Class {
+#Rectangle_8_bh {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_8_bf {
+.Rectangle_8_bh {
 	filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, 0.388));
 	position: absolute;
 	overflow: visible;
@@ -398,7 +411,7 @@
 	left: 0px;
 	top: 0px;
 }
-.gpsicon_Class {
+#gpsicon {
 	position: absolute;
 	width: 82px;
 	height: 82px;
@@ -406,35 +419,35 @@
 	top: 46px;
 	overflow: visible;
 }
-.accurate_gps_Class {
+#accurate_gps {
 	left: 6px;
-	top: 175px;
+	top: 165px;
 	position: absolute;
 	overflow: visible;
 	width: 321px;
 	height: 32px;
 	text-align: center;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.Inside_is_a_GPS_giving_you_you_Class {
+#Inside_is_a_GPS_giving_you_you {
 	left: 22px;
-	top: 231px;
+	top: 221px;
 	position: absolute;
 	overflow: visible;
 	width: 289px;
 	height: 92px;
 	text-align: center;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.what_is_cyclet_Class {
+#what_is_cyclet {
 	position: absolute;
 	width: 1920px;
 	height: 432px;
@@ -442,7 +455,7 @@
 	top: 1200px;
 	overflow: visible;
 }
-.Rectangle_13_Class {
+#Rectangle_13 {
 	fill: transparent;
 }
 .Rectangle_13 {
@@ -453,15 +466,15 @@
 	left: 0px;
 	top: 0px;
 }
-.Group_5_Class {
+#Group_5 {
 	position: absolute;
 	width: 832px;
-	height: 240px;
+	height: 250px;
 	left: 128px;
 	top: 99px;
 	overflow: visible;
 }
-.what_is_cyclet_bm_Class {
+#what_is_cyclet_bo {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -469,27 +482,35 @@
 	width: 609px;
 	height: 64px;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 64px;
 	color: rgba(21,121,255,1);
 }
-.Cyclet_is_a_multi_function_bik_Class {
+#Component_7__1 {
+	position: absolute;
+	width: 832px;
+	height: 132px;
 	left: 0px;
 	top: 118px;
+	overflow: visible;
+}
+#Cyclet_is_a_multi_function_bik {
+	left: 0px;
+	top: 0px;
 	position: absolute;
 	overflow: visible;
 	width: 833px;
 	height: 122px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 36px;
 	color: rgba(0,0,0,1);
 }
-.IMG_2763-removebg-preview_Class {
+#IMG_2763-removebg-preview {
 	position: absolute;
 	width: 832px;
 	height: 432px;
@@ -497,70 +518,78 @@
 	top: 0px;
 	overflow: visible;
 }
-.features_Class {
+#features {
 	left: 656px;
-	top: 1776px;
+	top: 1728px;
 	position: absolute;
 	overflow: visible;
 	width: 609px;
 	height: 64px;
 	text-align: center;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 64px;
-	color: rgba(21,121,255,1);
+	color: rgba(255,255,255,1);
 }
-.Group_15_Class {
+#Group_15 {
 	position: absolute;
-	width: 1920px;
+	width: 1792px;
 	height: 880px;
-	left: 0px;
-	top: 1872px;
+	left: 64px;
+	top: 1856px;
 	overflow: visible;
 }
-.Rectangle_14_Class {
-	fill: transparent;
+#Rectangle_14 {
+	fill: rgba(255,255,255,1);
 }
 .Rectangle_14 {
 	position: absolute;
 	overflow: visible;
-	width: 1920px;
+	width: 1792px;
 	height: 880px;
 	left: 0px;
 	top: 0px;
 }
-.cyclet_Class {
+#cyclet {
 	position: absolute;
 	width: 832px;
 	height: 496px;
-	left: 128px;
+	left: 64px;
 	top: 256px;
 	overflow: visible;
 }
-.front_module_Class {
-	left: 128px;
+#front_module {
+	left: 64px;
 	top: 95px;
 	position: absolute;
 	overflow: visible;
 	width: 357px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 64px;
 	color: rgba(74,199,97,1);
 }
-.Group_6_Class {
+#Group_21 {
+	position: absolute;
+	width: 720px;
+	height: 672px;
+	left: 1008px;
+	top: 104px;
+	overflow: visible;
+}
+#Group_6 {
 	position: absolute;
 	width: 720px;
 	height: 96px;
-	left: 1072px;
-	top: 160px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
-.front_Class {
+#front {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -568,7 +597,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.front_light_Class {
+#front_light {
 	left: 128px;
 	top: 7px;
 	position: absolute;
@@ -576,13 +605,13 @@
 	width: 133px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.Cyclets_bright_front_light_all_Class {
+#Cyclets_bright_front_light_all {
 	left: 128px;
 	top: 48px;
 	position: absolute;
@@ -590,21 +619,21 @@
 	width: 593px;
 	height: 44px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Group_6_by_Class {
+#Group_6_b {
 	position: absolute;
 	width: 720px;
 	height: 96px;
-	left: 1072px;
-	top: 304px;
+	left: 0px;
+	top: 144px;
 	overflow: visible;
 }
-.turn_Class {
+#turn {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -612,7 +641,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.turn_signal_b_Class {
+#turn_signal_b {
 	left: 128px;
 	top: 7px;
 	position: absolute;
@@ -620,13 +649,13 @@
 	width: 149px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.Cyclet_is_incorporated_with_an_b_Class {
+#Cyclet_is_incorporated_with_an_b {
 	left: 128px;
 	top: 48px;
 	position: absolute;
@@ -634,21 +663,21 @@
 	width: 593px;
 	height: 44px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Group_6_b_Class {
+#Group_6_ca {
 	position: absolute;
 	width: 720px;
 	height: 96px;
-	left: 1072px;
-	top: 448px;
+	left: 0px;
+	top: 288px;
 	overflow: visible;
 }
-.gps_Class {
+#gps {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -656,7 +685,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.accurate_gps_b_Class {
+#accurate_gps_b {
 	left: 128px;
 	top: 7px;
 	position: absolute;
@@ -664,13 +693,13 @@
 	width: 184px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.Included_is_a_GPS_giving_you_y_Class {
+#Included_is_a_GPS_giving_you_y {
 	left: 128px;
 	top: 48px;
 	position: absolute;
@@ -678,21 +707,21 @@
 	width: 593px;
 	height: 44px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Group_6_ca_Class {
+#Group_6_cb {
 	position: absolute;
 	width: 720px;
 	height: 96px;
-	left: 1072px;
-	top: 592px;
+	left: 0px;
+	top: 432px;
 	overflow: visible;
 }
-.display_Class {
+#display {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -700,7 +729,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.info_display_b_Class {
+#info_display_cc {
 	left: 128px;
 	top: 7px;
 	position: absolute;
@@ -708,13 +737,13 @@
 	width: 161px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.A_screen_on_the_top_of_Cyclet__b_Class {
+#A_screen_on_the_top_of_Cyclet__cd {
 	left: 128px;
 	top: 48px;
 	position: absolute;
@@ -722,21 +751,21 @@
 	width: 593px;
 	height: 44px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Group_6_cb_Class {
+#Group_6_ce {
 	position: absolute;
 	width: 720px;
 	height: 96px;
-	left: 1072px;
-	top: 736px;
+	left: 0px;
+	top: 576px;
 	overflow: visible;
 }
-.battery_Class {
+#battery {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -744,7 +773,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.long_battery_life_Class {
+#long_battery_life {
 	left: 128px;
 	top: 7px;
 	position: absolute;
@@ -752,13 +781,13 @@
 	width: 218px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.Cyclet_has_a_battery_life_of_o_Class {
+#Cyclet_has_a_battery_life_of_o {
 	left: 128px;
 	top: 48px;
 	position: absolute;
@@ -766,13 +795,13 @@
 	width: 593px;
 	height: 44px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Ellipse_6_Class {
+#Ellipse_6 {
 	fill: rgba(255,220,4,1);
 }
 .Ellipse_6 {
@@ -780,10 +809,10 @@
 	overflow: visible;
 	width: 32px;
 	height: 32px;
-	left: 528px;
+	left: 464px;
 	top: 320px;
 }
-.Ellipse_7_Class {
+#Ellipse_7 {
 	fill: rgba(192,82,222,1);
 }
 .Ellipse_7 {
@@ -791,10 +820,10 @@
 	overflow: visible;
 	width: 32px;
 	height: 32px;
-	left: 223px;
+	left: 159px;
 	top: 437px;
 }
-.Ellipse_8_Class {
+#Ellipse_8 {
 	fill: rgba(255,161,0,1);
 }
 .Ellipse_8 {
@@ -802,10 +831,10 @@
 	overflow: visible;
 	width: 32px;
 	height: 32px;
-	left: 336px;
+	left: 272px;
 	top: 320px;
 }
-.Ellipse_9_Class {
+#Ellipse_9 {
 	fill: rgba(10,125,255,1);
 }
 .Ellipse_9 {
@@ -813,10 +842,10 @@
 	overflow: visible;
 	width: 32px;
 	height: 32px;
-	left: 400px;
+	left: 336px;
 	top: 464px;
 }
-.Ellipse_10_Class {
+#Ellipse_10 {
 	fill: rgba(59,199,92,1);
 }
 .Ellipse_10 {
@@ -824,59 +853,67 @@
 	overflow: visible;
 	width: 32px;
 	height: 32px;
-	left: 848px;
+	left: 784px;
 	top: 576px;
 }
-.Group_16_Class {
+#Group_16 {
 	position: absolute;
-	width: 1920px;
+	width: 1792px;
 	height: 592px;
-	left: 0px;
-	top: 2768px;
+	left: 64px;
+	top: 2800px;
 	overflow: visible;
 }
-.Rectangle_15_Class {
-	fill: transparent;
+#Rectangle_15 {
+	fill: rgba(255,255,255,1);
 }
 .Rectangle_15 {
 	position: absolute;
 	overflow: visible;
-	width: 1920px;
+	width: 1792px;
 	height: 592px;
 	left: 0px;
 	top: 0px;
 }
-.taillight_Class {
+#taillight {
 	position: absolute;
 	width: 832px;
 	height: 432px;
-	left: 960px;
+	left: 896px;
 	top: 160px;
 	overflow: visible;
 }
-.back_module_Class {
-	left: 1400px;
+#back_module {
+	left: 1336px;
 	top: 95px;
 	position: absolute;
 	overflow: visible;
 	width: 364px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 64px;
 	color: rgba(10,129,255,1);
 }
-.Group_7_Class {
+#Group_22 {
+	position: absolute;
+	width: 720px;
+	height: 384px;
+	left: 64px;
+	top: 104px;
+	overflow: visible;
+}
+#Group_7 {
 	position: absolute;
 	width: 720px;
 	height: 96px;
-	left: 128px;
-	top: 160px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
-.back_Class {
+#back {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -884,7 +921,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.back_light_Class {
+#back_light {
 	left: 128px;
 	top: 7px;
 	position: absolute;
@@ -892,13 +929,13 @@
 	width: 136px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.Cyclet_includes_a_back_light_a_Class {
+#Cyclet_includes_a_back_light_a {
 	left: 128px;
 	top: 48px;
 	position: absolute;
@@ -906,21 +943,21 @@
 	width: 593px;
 	height: 44px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Group_8_Class {
+#Group_8 {
 	position: absolute;
 	width: 720px;
 	height: 96px;
-	left: 128px;
-	top: 304px;
+	left: 0px;
+	top: 144px;
 	overflow: visible;
 }
-.turn_cs_Class {
+#turn_cx {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -928,7 +965,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.turn_signal_ct_Class {
+#turn_signal_cy {
 	left: 128px;
 	top: 7px;
 	position: absolute;
@@ -936,13 +973,13 @@
 	width: 149px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.Cyclets_back_light_also_includ_Class {
+#Cyclets_back_light_also_includ {
 	left: 128px;
 	top: 48px;
 	position: absolute;
@@ -950,21 +987,21 @@
 	width: 593px;
 	height: 44px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Group_9_Class {
+#Group_9 {
 	position: absolute;
 	width: 720px;
 	height: 96px;
-	left: 128px;
-	top: 448px;
+	left: 0px;
+	top: 288px;
 	overflow: visible;
 }
-.viewing_Class {
+#viewing {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -972,7 +1009,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.wide_viewing_angle_Class {
+#wide_viewing_angle {
 	left: 128px;
 	top: 7px;
 	position: absolute;
@@ -980,13 +1017,13 @@
 	width: 270px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.Both_the_front_and_back_light__Class {
+#Both_the_front_and_back_light_ {
 	left: 128px;
 	top: 48px;
 	position: absolute;
@@ -994,13 +1031,13 @@
 	width: 593px;
 	height: 44px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Ellipse_11_Class {
+#Ellipse_11 {
 	fill: rgba(255,60,8,1);
 }
 .Ellipse_11 {
@@ -1008,10 +1045,10 @@
 	overflow: visible;
 	width: 32px;
 	height: 32px;
-	left: 1360px;
+	left: 1296px;
 	top: 361px;
 }
-.Ellipse_12_Class {
+#Ellipse_12 {
 	fill: rgba(192,82,222,1);
 }
 .Ellipse_12 {
@@ -1019,10 +1056,10 @@
 	overflow: visible;
 	width: 32px;
 	height: 32px;
-	left: 1776px;
+	left: 1712px;
 	top: 360px;
 }
-.Ellipse_13_Class {
+#Ellipse_13 {
 	fill: rgba(255,161,0,1);
 }
 .Ellipse_13 {
@@ -1030,59 +1067,67 @@
 	overflow: visible;
 	width: 32px;
 	height: 32px;
-	left: 1128px;
+	left: 1064px;
 	top: 360px;
 }
-.Group_17_Class {
+#Group_17 {
 	position: absolute;
-	width: 1920px;
-	height: 880px;
-	left: 0px;
-	top: 3360px;
+	width: 1792px;
+	height: 512px;
+	left: 64px;
+	top: 3456px;
 	overflow: visible;
 }
-.Rectangle_16_Class {
-	fill: transparent;
+#Rectangle_16 {
+	fill: rgba(255,255,255,1);
 }
 .Rectangle_16 {
 	position: absolute;
 	overflow: visible;
-	width: 1920px;
-	height: 880px;
+	width: 1792px;
+	height: 512px;
 	left: 0px;
 	top: 0px;
 }
-.turnswitch_Class {
+#turnswitch {
 	position: absolute;
 	width: 832px;
 	height: 240px;
-	left: 128px;
-	top: 160px;
+	left: 64px;
+	top: 208px;
 	overflow: visible;
 }
-.turn_switch_Class {
-	left: 128px;
+#turn_switch {
+	left: 64px;
 	top: 95px;
 	position: absolute;
 	overflow: visible;
 	width: 307px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 64px;
 	color: rgba(255,157,0,1);
 }
-.Group_10_Class {
+#Group_23 {
+	position: absolute;
+	width: 720px;
+	height: 240px;
+	left: 1008px;
+	top: 136px;
+	overflow: visible;
+}
+#Group_10 {
 	position: absolute;
 	width: 720px;
 	height: 96px;
-	left: 1072px;
-	top: 160px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
-.switch_Class {
+#switch {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -1090,7 +1135,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.simple_actuation_Class {
+#simple_actuation {
 	left: 128px;
 	top: 7px;
 	position: absolute;
@@ -1098,13 +1143,13 @@
 	width: 232px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.Use_the_two_touch_sensors_on_t_Class {
+#Use_the_two_touch_sensors_on_t {
 	left: 128px;
 	top: 48px;
 	position: absolute;
@@ -1112,21 +1157,21 @@
 	width: 593px;
 	height: 44px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Group_11_Class {
+#Group_11 {
 	position: absolute;
 	width: 720px;
 	height: 96px;
-	left: 1072px;
-	top: 304px;
+	left: 0px;
+	top: 144px;
 	overflow: visible;
 }
-.touch_Class {
+#touch {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -1134,7 +1179,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.convenient_location_Class {
+#convenient_location {
 	left: 128px;
 	top: 7px;
 	position: absolute;
@@ -1142,13 +1187,13 @@
 	width: 275px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 32px;
 	color: rgba(0,0,0,1);
 }
-.Cyclets_turn_signal_switch_is__Class {
+#Cyclets_turn_signal_switch_is_ {
 	left: 128px;
 	top: 48px;
 	position: absolute;
@@ -1156,13 +1201,13 @@
 	width: 593px;
 	height: 44px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-.Ellipse_19_Class {
+#Ellipse_19 {
 	fill: rgba(10,125,255,1);
 }
 .Ellipse_19 {
@@ -1170,10 +1215,10 @@
 	overflow: visible;
 	width: 32px;
 	height: 32px;
-	left: 459px;
-	top: 264px;
+	left: 395px;
+	top: 312px;
 }
-.Ellipse_20_Class {
+#Ellipse_20 {
 	fill: rgba(59,199,92,1);
 }
 .Ellipse_20 {
@@ -1181,57 +1226,57 @@
 	overflow: visible;
 	width: 32px;
 	height: 32px;
-	left: 608px;
-	top: 192px;
+	left: 544px;
+	top: 240px;
 }
-.Path_1_dh_Class {
-	fill: url(#Path_1_dh);
+#Path_1_dn {
+	fill: url(#Path_1_dn);
 }
-.Path_1_dh {
+.Path_1_dn {
 	overflow: visible;
 	position: absolute;
 	width: 256px;
 	height: 80px;
-	left: 705px;
+	left: 641px;
 	top: 240px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.Group_14_Class {
+#Group_14 {
 	position: absolute;
 	width: 1920px;
-	height: 1080px;
+	height: 1072px;
 	left: 0px;
-	top: 3904px;
+	top: 4032px;
 	overflow: visible;
 }
-.Group_13_Class {
+#Group_13 {
 	position: absolute;
 	width: 1920px;
-	height: 1080px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.Rectangle_17_dl_Class {
-	fill: url(#Rectangle_17_dl);
-}
-.Rectangle_17_dl {
-	position: absolute;
-	overflow: visible;
-	width: 1920px;
-	height: 1080px;
+	height: 1072px;
 	left: 0px;
 	top: 0px;
+	overflow: visible;
 }
-.Group_12_Class {
+#Rectangle_17 {
+	fill: rgba(229,229,229,1);
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1072px;
+	left: 0px;
+	top: 0px;
+}
+#Group_12 {
 	position: absolute;
 	width: 608px;
 	height: 722px;
 	left: 128px;
-	top: 180px;
+	top: 176px;
 	overflow: visible;
 }
-.tech_specs_Class {
+#tech_specs {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -1239,13 +1284,13 @@
 	width: 609px;
 	height: 64px;
 	text-align: left;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 64px;
-	color: rgba(255,255,255,1);
+	color: rgba(0,0,0,1);
 }
-.for_nerds_Class {
+#for_nerds {
 	left: 0px;
 	top: 95px;
 	position: absolute;
@@ -1253,13 +1298,13 @@
 	width: 609px;
 	height: 28px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 28px;
-	color: rgba(255,255,255,1);
+	color: rgba(0,0,0,1);
 }
-.main_module_Class {
+#main_module {
 	left: 0px;
 	top: 196px;
 	position: absolute;
@@ -1267,13 +1312,13 @@
 	width: 207px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 36px;
-	color: rgba(255,255,255,1);
+	color: rgba(0,0,0,1);
 }
-.dimensions_100mm_x_60mm_x_40mm_Class {
+#dimensions_100mm_x_60mm_x_40mm {
 	left: 16px;
 	top: 254px;
 	position: absolute;
@@ -1283,13 +1328,13 @@
 	line-height: 40px;
 	margin-top: -6px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 28px;
-	color: rgba(255,255,255,1);
+	color: rgba(0,0,0,1);
 }
-.back_module_dr_Class {
+#back_module_dw {
 	left: 0px;
 	top: 516px;
 	position: absolute;
@@ -1297,13 +1342,13 @@
 	width: 205px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 36px;
-	color: rgba(255,255,255,1);
+	color: rgba(0,0,0,1);
 }
-.dimensions_100mm_x_WONG_led_br_Class {
+#dimensions_100mm_x_WONG_led_br {
 	left: 16px;
 	top: 574px;
 	position: absolute;
@@ -1313,29 +1358,29 @@
 	line-height: 40px;
 	margin-top: -6px;
 	text-align: left;
-	font-family: "Gotham";
+	font-family: Gotham;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 28px;
-	color: rgba(255,255,255,1);
+	color: rgba(0,0,0,1);
 }
-.cyclet_dt_Class {
+#cyclet_dy {
 	position: absolute;
 	width: 832px;
-	height: 832px;
+	height: 824px;
 	left: 960px;
 	top: 124px;
 	overflow: visible;
 }
-.Group_18_Class {
+#Group_18 {
 	position: absolute;
 	width: 1920px;
 	height: 288px;
 	left: 0px;
-	top: 4976px;
+	top: 5104px;
 	overflow: visible;
 }
-.Rectangle_18_Class {
+#Rectangle_18 {
 	fill: rgba(255,255,255,1);
 }
 .Rectangle_18 {
@@ -1346,7 +1391,7 @@
 	left: 0px;
 	top: 0px;
 }
-.wwwcycletus_copyright_2022_by__Class {
+#wwwcycletus_copyright_2022_by_ {
 	left: 664px;
 	top: 170px;
 	position: absolute;
@@ -1356,13 +1401,13 @@
 	line-height: 42px;
 	margin-top: -7px;
 	text-align: center;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 28px;
 	color: rgba(0,0,0,1);
 }
-.cycletmulti_Class {
+#cycletmulti {
 	position: absolute;
 	width: 208px;
 	height: 80px;
@@ -1370,7 +1415,7 @@
 	top: 64px;
 	overflow: visible;
 }
-.title_bar_Class {
+#title_bar {
 	position: absolute;
 	width: 1920px;
 	height: 112px;
@@ -1378,7 +1423,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.Rectangle_1_Class {
+#Rectangle_1 {
 	filter: blur(1px);
 	fill: rgba(255,255,255,0.85);
 }
@@ -1391,7 +1436,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cycletmulti_d_Class {
+#cycletmulti_d {
 	position: absolute;
 	width: 138px;
 	height: 48px;
@@ -1399,15 +1444,15 @@
 	top: 32px;
 	overflow: visible;
 }
-.Blank_Button_Small_Class {
+#Blank_Button_Small {
 	position: absolute;
 	width: 160px;
 	height: 48px;
-	left: 1374px;
+	left: 1344px;
 	top: 32px;
 	overflow: visible;
 }
-.Rectangle_3_Class {
+#Rectangle_3 {
 	fill: transparent;
 }
 .Rectangle_3 {
@@ -1418,7 +1463,7 @@
 	left: 0px;
 	top: 0px;
 }
-.home_Class {
+#home {
 	left: 0px;
 	top: 9px;
 	position: absolute;
@@ -1426,13 +1471,13 @@
 	width: 161px;
 	height: 24px;
 	text-align: center;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 }
-.Color_Button_Small_Class {
+#Color_Button_Small {
 	position: absolute;
 	width: 160px;
 	height: 48px;
@@ -1441,13 +1486,13 @@
 	overflow: visible;
 	--web-animation: fadein undefineds undefined;
 	--web-action-type: page;
-	--web-action-target: Web_1920___2.html;
+	--web-action-target: buy.html;
 	cursor: pointer;
 }
-.Rectangle_4_d_Class {
-	fill: url(#Rectangle_4_d);
+#Rectangle_4_eb {
+	fill: url(#Rectangle_4_eb);
 }
-.Rectangle_4_d {
+.Rectangle_4_eb {
 	filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.459));
 	position: absolute;
 	overflow: visible;
@@ -1456,7 +1501,7 @@
 	left: 0px;
 	top: 0px;
 }
-.buy_now_d_Class {
+#buy_now_ec {
 	left: 0px;
 	top: 9px;
 	position: absolute;
@@ -1464,13 +1509,13 @@
 	width: 161px;
 	height: 24px;
 	text-align: center;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
 	color: rgba(255,255,255,1);
 }
-.Blank_Button_Small_d_Class {
+#Blank_Button_Small_ed {
 	position: absolute;
 	width: 160px;
 	height: 48px;
@@ -1478,10 +1523,10 @@
 	top: 32px;
 	overflow: visible;
 }
-.Rectangle_3_d_Class {
+#Rectangle_3_ee {
 	fill: transparent;
 }
-.Rectangle_3_d {
+.Rectangle_3_ee {
 	position: absolute;
 	overflow: visible;
 	width: 160px;
@@ -1489,7 +1534,7 @@
 	left: 0px;
 	top: 0px;
 }
-.contact_Class {
+#contact {
 	left: 0px;
 	top: 9px;
 	position: absolute;
@@ -1497,7 +1542,7 @@
 	width: 161px;
 	height: 24px;
 	text-align: center;
-	font-family: "Kumbh Sans";
+	font-family: Kumbh Sans;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
