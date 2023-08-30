@@ -2853,16 +2853,6 @@ var Application = function() {
 
 	self.onloadHandler = function(event) {
 		self.initialize();
-
-		document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-		    anchor.addEventListener('click', function (e) {
-		        e.preventDefault();
-
-		        document.querySelector(this.getAttribute('href')).scrollIntoView({
-		            behavior: 'smooth'
-		        });
-		    });
-		});
 	}
 
 	self.setElementHTML = function(id, value) {
