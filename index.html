@@ -45,7 +45,7 @@ if (navigator.userAgent.match(/Android/i) ||
 			<div data-type="Text" data-name="the safer, smarter way to bike" id="the_safer_smarter_way_to_bike">
 				<span>the safer, smarter way to bike</span>
 			</div>
-			<div data-type="Symbol" data-name="Color Button" onclick="application.goToTargetView(event)" id="Color_Button" class="Color_Button">
+			<div data-type="Symbol" data-name="Color Button" id="Color_Button" class="Color_Button">
 				<div data-type="Group" data-name="Color Button Large" id="Color_Button_Large">
 					<svg data-type="Rectangle" data-name="Rectangle 5" class="Rectangle_5_u">
 						<linearGradient id="Rectangle_5_u" spreadMethod="pad" x1="0" x2="1" y1="0.5" y2="0.5">
@@ -56,7 +56,7 @@ if (navigator.userAgent.match(/Android/i) ||
 						</rect>
 					</svg>
 				</div>
-				<div data-type="Text" data-name="buy now" id="buy_now">
+				<div data-type="Text" data-name="buy now" id="buy_now" onclick='alert("Not yet available");'>
 					<span>buy now</span>
 				</div>
 			</div>
@@ -65,7 +65,7 @@ if (navigator.userAgent.match(/Android/i) ||
 					<rect id="Rectangle_6" rx="32" ry="32" x="0" y="0" width="224" height="64">
 					</rect>
 				</svg>
-				<div data-type="Text" data-name="learn more" id="learn_more">
+				<div data-type="Text" data-name="learn more" id="learn_more" onclick="document.querySelector('#features').scrollIntoView({behavior: 'smooth'});">
 					<span>learn more</span>
 				</div>
 			</div>
@@ -411,7 +411,7 @@ copyright 2022 by cyclet. all rights reserved." id="wwwcycletus_copyright_2022_b
 				<span>home</span>
 			</div>
 		</div>
-		<div data-type="Symbol" data-name="Color Button Small" onclick="application.goToTargetView(event)" id="Color_Button_Small" class="Color_Button_Small">
+		<div data-type="Symbol" data-name="Color Button Small" id="Color_Button_Small" class="Color_Button_Small">
 			<svg data-type="Rectangle" data-name="Rectangle 4" class="Rectangle_4_eb">
 				<linearGradient id="Rectangle_4_eb" spreadMethod="pad" x1="0" x2="1" y1="0.5" y2="0.5">
 					<stop offset="0" stop-color="#3fa1ff" stop-opacity="1"></stop>
@@ -420,7 +420,7 @@ copyright 2022 by cyclet. all rights reserved." id="wwwcycletus_copyright_2022_b
 				<rect id="Rectangle_4_eb" rx="24" ry="24" x="0" y="0" width="160" height="48">
 				</rect>
 			</svg>
-			<div data-type="Text" data-name="buy now" id="buy_now_ec">
+			<div data-type="Text" data-name="buy now" id="buy_now_ec" onclick="alert('Not yet available.')">
 				<span>buy now</span>
 			</div>
 		</div>
@@ -429,7 +429,7 @@ copyright 2022 by cyclet. all rights reserved." id="wwwcycletus_copyright_2022_b
 				<rect id="Rectangle_3_ee" rx="0" ry="0" x="0" y="0" width="160" height="48">
 				</rect>
 			</svg>
-			<div data-type="Text" data-name="contact" id="contact">
+			<div data-type="Text" data-name="contact" id="contact" onclick="location.href='mailto:collwentzi@gmail.com';">
 				<span>contact</span>
 			</div>
 		</div>
