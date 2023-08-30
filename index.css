@@ -227,6 +227,7 @@
 	top: 804px;
 	overflow: visible;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 24px;
 }
 #Rectangle_8 {
 	fill: rgba(255,255,255,1);
@@ -284,6 +285,7 @@
 	top: 804px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	overflow: visible;
+	border-radius: 24px;
 }
 #Rectangle_8_ {
 	fill: rgba(255,255,255,1);
@@ -341,6 +343,7 @@
 	top: 804px;
 	overflow: visible;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 24px;
 }
 #Rectangle_8_bc {
 	fill: rgba(255,255,255,1);
@@ -398,6 +401,7 @@
 	top: 804px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	overflow: visible;
+	border-radius: 24px;
 }
 #Rectangle_8_bh {
 	fill: rgba(255,255,255,1);
