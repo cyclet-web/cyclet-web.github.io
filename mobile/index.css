@@ -2,12 +2,12 @@
 
 @font-face {
 	font-family: "Metropolis";
-	src: url("../Metropolis-Regular.ttf");
+	src: url("../Metropolis-Regular.otf");
 }
 
 @font-face {
 	font-family: "MetropolisBold";
-	src: url("../Metropolis-Bold.ttf");
+	src: url("../Metropolis-Bold.otf");
 }
 
 .mediaViewInfo {
