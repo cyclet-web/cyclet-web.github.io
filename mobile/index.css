@@ -32,7 +32,7 @@
 	position: absolute;
 	width: 430px;
 	height: 1837px;
-	background-color: rgba(255,255,255,1);
+	background-color: black;
 	overflow: hidden;
 	--web-view-name: iPhone 14 Pro Max – 1;
 	--web-view-id: iPhone_14_Pro_Max__1;
@@ -92,7 +92,7 @@
 	width: 430px;
 	height: 165px;
 	left: 0px;
-	top: 793px;
+	top: 493px;
 }
 #cycletlogo {
 	position: absolute;
