@@ -509,7 +509,7 @@
 	width: 832px;
 	height: 555px;
 	left: 960px;
-	top: 0px;
+	top: -50px;
 	overflow: visible;
 }
 #features {
@@ -1361,9 +1361,9 @@
 #cyclet_dy {
 	position: absolute;
 	width: 832px;
-	height: 824px;
+	height: 555px;
 	left: 960px;
-	top: 124px;
+	top: 324px;
 	overflow: visible;
 }
 #Group_18 {
