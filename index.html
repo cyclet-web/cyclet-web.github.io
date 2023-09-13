@@ -10,6 +10,15 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+<!-- MailerLite Universal -->
+<script>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '592571');
+</script>
+<!-- End MailerLite Universal -->
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <script>
 if (navigator.userAgent.match(/Android/i) ||
@@ -61,7 +70,7 @@ if (navigator.userAgent.match(/Android/i) ||
 						</rect>
 					</svg>
 				</div>
-				<a href='#buy' rel='modal:open'>
+				<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'nRQ7Q5', true)">
 					<div data-type="Text" data-name="buy now" id="buy_now">
 						<span>buy now</span>
 					</div>
@@ -427,7 +436,7 @@ copyright 2022 by cyclet. all rights reserved." id="wwwcycletus_copyright_2022_b
 				<rect id="Rectangle_4_eb" rx="24" ry="24" x="0" y="0" width="160" height="48">
 				</rect>
 			</svg>
-			<a href='#buy' rel='modal:open'>
+			<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'nRQ7Q5', true)">
 				<div data-type="Text" data-name="buy now" id="buy_now_ec">
 					<span>buy now</span>
 				</div>
@@ -448,9 +457,6 @@ copyright 2022 by cyclet. all rights reserved." id="wwwcycletus_copyright_2022_b
 </div>
 <div id='contact-modal' class='modal' style='min-width:min-content;'>
 	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdqhwsS5sTZXXdIE7rICwc__Wpd91kjkl7HMSyyU1W9fLXkRw/viewform?embedded=true" width="640" height="551" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</div>
-<div id='buy' class='modal' style='min-width:min-content;'>
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7C9I0SHGZcis4JvkJuP2C1coOa0m0CcKMeCeKfvxYSpRfvQ/viewform?embedded=true" width="640" height="551" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 </body>
 </html>
